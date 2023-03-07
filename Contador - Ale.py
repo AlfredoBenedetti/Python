@@ -1,3 +1,5 @@
+# Alfredo - 06032023 - Isto é um contador de 10 segundos impreciso
+
 import time
 import os
 
